@@ -9,7 +9,7 @@ epochs = 100
 latent_dim = 256
 num_samples = 150,000
 
-data_path = 'fra.txt'
+data_path = 'eng-fra.txt'
 
 input_texts = []
 output_texts = []
