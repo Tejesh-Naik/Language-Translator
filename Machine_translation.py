@@ -7,7 +7,7 @@ import numpy as np
 batch_size = 64
 epochs = 100
 latent_dim = 256
-num_samples = 20000
+num_samples = 150,000
 
 data_path = 'fra.txt'
 
